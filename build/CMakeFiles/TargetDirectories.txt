@@ -1,0 +1,5 @@
+/home/bobo/code/DirectmMethod_simple/build/src/CMakeFiles/EdgeDirect.dir
+/home/bobo/code/DirectmMethod_simple/build/src/CMakeFiles/bilinear_interpolation.dir
+/home/bobo/code/DirectmMethod_simple/build/src/CMakeFiles/direct_semidense.dir
+/home/bobo/code/DirectmMethod_simple/build/src/CMakeFiles/direct_sparse.dir
+/home/bobo/code/DirectmMethod_simple/build/src/CMakeFiles/direct_sparse_gx.dir

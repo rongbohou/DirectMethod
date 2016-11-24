@@ -1,0 +1,21 @@
+#direct method
+**Authors:** rongbohou, email:rongbohou@163.com
+
+It uses (sparse semidense dense)direct method to estimate the motion of the camera(robot).
+
+
+# Require: 
+g2o, OpenCV 2.4.x
+
+# build
+mkdir build ＆＆ cd build 
+cmake  .. 
+make 
+
+# usage
+
+
+dense: use every pixel. e.g DTAM 
+semidense: use obvious gradient pixel
+sparse: use fast feature
+
