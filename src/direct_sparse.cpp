@@ -72,8 +72,8 @@ int main()
     Isometry3d Tcw = Isometry3d::Identity();
      for(int index = 0; index < image_num; index++)
     {
-         sprintf(color_path,"/home/bobo/code/DirectmMethod_simple/data/rgb_png/%01d.png",index);
-         sprintf(depth_path,"/home/bobo/code/DirectmMethod_simple/data/depth_png/%01d.png",index);
+         sprintf(color_path,"/home/bobo/code/DirectMethod_simple/data/rgb_png/%01d.png",index);
+         sprintf(depth_path,"/home/bobo/code/DirectMethod_simple/data/depth_png/%01d.png",index);
          color_image = cv::imread(color_path);
          depth_image= cv::imread(depth_path);
          if(color_image.empty())

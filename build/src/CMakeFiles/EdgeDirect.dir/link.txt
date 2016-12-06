@@ -1,2 +1,0 @@
-/usr/bin/ar cr ../../lib/libEdgeDirect.a  CMakeFiles/EdgeDirect.dir/edge_se3expmap_direct.cpp.o
-/usr/bin/ranlib ../../lib/libEdgeDirect.a
